@@ -1,0 +1,22 @@
+.logo{
+-fx-text-fill:  #19A2F2;
+-fx-background-radius: 40.0;
+-fx-background-color: white;
+-fx-font-family: "Dokdo";
+-fx-font-size: 50.0;
+}
+
+.nombre{
+    -fx-font-family: "Indie Flower";
+    -fx-font-size: 30.0;
+}
+
+.textito{
+    -fx-font-family: "Indie Flower";
+    -fx-font-size: 14.0;
+}
+
+.fondo {
+	-fx-background-image: url("../images/uem.jpg");
+	-fx-background-size: cover, auto;
+}
